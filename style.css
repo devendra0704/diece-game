@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+/* *{
+    margin: 0;
+    padding: 0;
+    font-family: 'Caveat', cursive;
+} */
+/* body{ */
+    /* width: 100vw; */
+    /* height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; */
+    /* text-align: center; */
+    
+/* } */
+h1{
+    /* text-align: center; */
+    margin: 50px;
+    font-size: 3.0rem;
+
+}
+
+.container{
+
+    /* display: flex; */
+    text-align: center;
+    width:80vw;
+    /* height: 60vh; */
+    /* gap: 25px; */
+    
+}
+.Player{
+text-align: center;
+display: inline-block;
+font-size: 35px;
+margin: 20px;
+}
+.Player p{
+    margin-bottom: 20px;
+}
